@@ -1,5 +1,9 @@
 {
     "githubPullRequests.ignoredPullRequestBranches": [
         "main"
+    ],
+    "python.analysis.extraPaths": [
+        "c:\\Users\\khanmuhammad\\.vscode\\extensions\\ms-security.ms-sentinel-2.0.2\\python",
+        "c:\\Users\\khanmuhammad\\.vscode\\extensions\\ms-security.ms-sentinel-2.1.0\\python"
     ]
 }
